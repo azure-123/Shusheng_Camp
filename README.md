@@ -6,3 +6,6 @@
 
 https://azure-123.github.io/2024/09/17/InternLMBeginner/
 
+### 基础岛
+
+https://azure-123.github.io/2024/09/20/InternLMBasic/
